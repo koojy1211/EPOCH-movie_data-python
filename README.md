@@ -6,8 +6,7 @@
 - `The Movies Dataset` from Kaggle
   - `movies_metadata.csv`
   - `credits.csv`
-- The Numbers budget data
-- FRED(Federal Reserve Economic Data) US Data (Producer Price Index by Commodity: All Commodities) \
+- The Numbers budget data \
 
 **[프로젝트 개요]**
 (TBA)
